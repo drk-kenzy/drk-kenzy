@@ -1,10 +1,10 @@
-### Salut, je suis drk-kenzy 👋
+### Salut, je suis Marc-Owen
 
-Développeur full-stack, à l'aise aussi bien côté web (Next.js, React, TypeScript) que sur des projets Python plus spécialisés — jeux éducatifs, outils de sécurité, systèmes de gestion internes.
+Développeur full-stack, à l'aise aussi bien côté web (Next.js, React, TypeScript) que sur des projets Python plus spécialisés,jeux éducatifs, outils de sécurité, systèmes de gestion internes.
 
-- 🔭 Actuellement sur **UniRP**, un RPG éducatif inspiré de la vie étudiante universitaire.
-- 🔐 Intéressé par la sécurité offensive/défensive (**NexusBreaker**, outil d'audit de mots de passe).
-- 🛠️ Stack habituelle : TypeScript · Next.js · React · Tailwind CSS · Python · SQLite.
+-  Actuellement sur **UniRP**, un RPG éducatif inspiré de la vie étudiante universitaire.
+-  Intéressé par la sécurité offensive/défensive (**NexusBreaker**, outil d'audit de mots de passe).
+-  Stack habituelle : TypeScript · Next.js · React · Tailwind CSS · Python · SQLite.
 
 ### Projets
 
