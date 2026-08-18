@@ -14,7 +14,7 @@ Développeur full-stack, à l'aise aussi bien côté web (Next.js, React, TypeSc
 | [Kenzcv](https://github.com/drk-kenzy/Kenzcv) | Application de conception de CV |
 | [DOSOWCO](https://github.com/drk-kenzy/DOSOWCO) | Système de gestion de courrier entrant/sortant pour l'administration |
 | [nbh-systemer](https://github.com/drk-kenzy/nbh-systemer) | Système de gestion de courriers (Next.js, React, SQLite) |
-| [FONTGLO](https://github.com/drk-kenzy/FONTGLO) | Bibliothèque Glose — exploration et gestion de collections de livres |
+| [FONTGLO](https://github.com/drk-kenzy/FONTGLO) | Bibliothèque Glose exploration et gestion de collections de livres |
 | [collaborative](https://github.com/drk-kenzy/collaborative) | Simulation d'éditeur de texte collaboratif multi-utilisateurs |
 | [Kenzynstudio](https://github.com/drk-kenzy/Kenzynstudio) | Application générée via AI Studio |
 
