@@ -32,6 +32,6 @@ Git, GitHub, npm / pnpm, VS Code, ESLint / Prettier, Docker & Docker Compose, Ve
 | [nbh-systemer](https://github.com/drk-kenzy/nbh-systemer) | Système de gestion de courriers (Next.js, React, SQLite) |
 | [FONTGLO](https://github.com/drk-kenzy/FONTGLO) | Bibliothèque Glose, exploration et gestion de collections de livres |
 | [collaborative](https://github.com/drk-kenzy/collaborative) | Simulation d'éditeur de texte collaboratif multi-utilisateurs |
-| [Kenzynstudio](https://github.com/drk-kenzy/Kenzynstudio) | Application générée via AI Studio |
+| [Kenzynstudio](https://github.com/drk-kenzy/Kenzynstudio) | Application e-commerce |
 
 Plusieurs autres projets sont développés en privé, parmi lesquels un jeu éducatif (UniRP, un RPG inspiré de la vie étudiante universitaire) et un outil d'audit de sécurité pour mots de passe (NexusBreaker).
